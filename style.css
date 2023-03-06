@@ -91,6 +91,12 @@ body {
   border-radius: 20px;
 }
 
+.title {
+  font-size: 3rem;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
 .search-bar {
   display: flex;
   justify-content: space-evenly;
